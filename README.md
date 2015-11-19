@@ -1,5 +1,5 @@
 # Secure Yourself (2016)
-If all you can do is talk about what is going on around you and "be informed," you may as well just forget everything and go play golf. But if there is something you can do about it, then do something about it.
+*If all you can do is talk about what is going on around you and be informed, you may as well just forget everything and go play golf. But if there is something you can do about it, then do something about it. -Matt Borja*
 
 ## Introduction
 This ongoing compilation is intended to spend less time on rationale and more time identifying actionable items; a list of things you can do *right now* to secure yourself in this volatile and vulnerable environment we call the Internet. Determining if these countermeasures are appropriate in every situation will be left as an exercise for the reader.
