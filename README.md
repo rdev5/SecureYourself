@@ -1,9 +1,12 @@
 # Secure Yourself (2016)
 
-If all you *can* do is talk about what is going on around you and "be informed," you may as well just forget everything and go play golf.
-But if there is *something* you can do about it, then *do something* about it.
+## Introduction
+If all you can do is talk about what is going on around you and "be informed," you may as well just forget everything and go play golf. But if there is something you can do about it, then do something about it.
 
-Note: This is an ongoing compilation of things you can do *right now* to secure yourself in this volatile and vulnerable environment we call the Internet. Determining if these countermeasures are appropriate in every situation will be left as an exercise for the reader.
+This ongoing compilation is intended to spend less time on rationale and more time identifying actionable items; a list of things you can do *right now* to secure yourself in this volatile and vulnerable environment we call the Internet. Determining if these countermeasures are appropriate in every situation will be left as an exercise for the reader.
+
+Finally, if you see any corrections that need to be made or would like to offer an improvement to the current list, feel free to submit a [pull request](https://help.github.com/articles/using-pull-requests/).
+
 ## Secure Your Credit
 You can mitigate (that is, reduce the damage or effect of) identity theft by placing a security freeze on your credit file.
 
