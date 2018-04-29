@@ -22,6 +22,7 @@ A broad topic, certainly, but one you do have control over. Let's start with the
 - [AVG free antivirus and file shredder](http://free.avg.com/us-en/homepage)
 - [Malwarebytes free anti-malware; detection and removal](https://www.malwarebytes.org/antimalware/)
 - [K9 web protection; Internet filtering and malware defense](http://www1.k9webprotection.com/#computer)
+- [Protect your network with OpenDNS](https://www.opendns.com/)
 
 ## Secure Your Communications
 These are methods for being vigilant as you move from one website, email, and connection to another:
